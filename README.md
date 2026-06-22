@@ -8,7 +8,7 @@ A full-stack weather application that delivers real-time weather conditions and 
 ![Prisma](https://img.shields.io/badge/Prisma-5.20-2D3748?logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-336791?logo=postgresql)
 <!-- ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel) -->
-[Vercel](https://wd-weather.vercel.app/)
+![Vercel](https://wd-weather.vercel.app/)
 ---
 
 ## 📖 Overview
